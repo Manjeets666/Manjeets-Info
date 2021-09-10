@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Manjeet Singh!
-- 👀 I’m interested in Blockchain programming
-- 🌱 I’m currently learning smart contract development in Ethereum blockchain.
+- 👀 I’m interested in Blockchain & Python programming.
+- 🌱 I’m currently learning Smart Contract development in Ethereum blockchain.
 - 📫 How to reach me --> gmail: msb200033@gmail.com
 
 <!---
